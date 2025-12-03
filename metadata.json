@@ -1,0 +1,7 @@
+{
+  "name": "雅思备考 AI",
+  "description": "由 Gemini 驱动的一站式雅思备考助手。练习写作并获得即时评分，模拟口语考试，并生成无限的阅读测试。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
